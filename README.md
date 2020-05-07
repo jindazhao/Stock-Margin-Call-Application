@@ -12,4 +12,6 @@ your name to the account and a starting cash balance, then hit save so that the 
 
 The margin requirement and the maintenance requirement are both entered in terms of a percentage so please do not enter in decimal number.
 
+To quit the application you can simply exit out of the by clicking the "X" button and it will stop running, just make sure to save your account before you quit!
+
 Enjoy!
