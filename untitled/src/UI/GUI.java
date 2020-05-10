@@ -75,7 +75,7 @@ public class GUI extends JFrame implements ActionListener {
         doJLabelSettings(jLabel, label2);
 
         JLabel label = new JLabel(new ImageIcon("C:\\Users\\Dell XPS 13\\IdeaProjects\\untitled2\\" +
-                "untitled\\data\\flat,550x550,075,f.u9.jpg"));
+                "untitled\\data\\stocks-iamchamp-adobe.jpg"));
         //label.setMinimumSize(new Dimension(1200, 5));
 
         menuPanel.add(label);
