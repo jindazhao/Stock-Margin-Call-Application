@@ -6,7 +6,7 @@ that it calculates the margin of each equity and gives an indication on whether 
 
 Notes:
 
-To start the applicaiton, simply clone the repository and hit run and then the load button to load your account. If you do not have 
+To start the application, simply clone the repository and hit run and then the load button to load your account. If you do not have 
 an account, you can create one by adding 
 your name to the account and a starting cash balance, then hit save so that the data is saved. 
 
